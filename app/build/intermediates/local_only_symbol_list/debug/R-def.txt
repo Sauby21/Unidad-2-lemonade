@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable lemon_drink
+drawable lemon_restart
+drawable lemon_squeeze
+drawable lemon_tree
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string img_1
+string img_2
+string img_3
+string img_4
+string paso_1
+string paso_2
+string paso_3
+string paso_4
+style Theme.Lemonade
+xml backup_rules
+xml data_extraction_rules
